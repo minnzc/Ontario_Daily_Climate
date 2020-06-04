@@ -1,0 +1,576 @@
+cduid,csdname,csduid,pop
+3520,"Toronto (C), Ontario",3520005,2965713
+3506,"Ottawa (CV), Ontario",3506008,1028514
+3521,"Mississauga (CY), Ontario",3521005,769050
+3521,"Brampton (CY), Ontario",3521010,696975
+3525,"Hamilton (C), Ontario",3525005,574263
+3539,"London (CY), Ontario",3539036,426139
+3519,"Markham (CY), Ontario",3519036,343698
+3519,"Vaughan (CY), Ontario",3519028,325678
+3530,"Kitchener (CY), Ontario",3530013,263790
+3537,"Windsor (CY), Ontario",3537039,234048
+3519,"Richmond Hill (T), Ontario",3519038,203996
+3524,"Oakville (T), Ontario",3524001,212551
+3524,"Burlington (CY), Ontario",3524002,190194
+3553,"Greater Sudbury / Grand Sudbury (CV), Ontario",3553005,168813
+3518,"Oshawa (CY), Ontario",3518013,175220
+3543,"Barrie (CY), Ontario",3543042,149302
+3526,"St. Catharines (CY), Ontario",3526053,141294
+3523,"Guelph (CY), Ontario",3523008,143169
+3530,"Cambridge (CY), Ontario",3530010,139996
+3518,"Whitby (T), Ontario",3518009,136594
+3510,"Kingston (CY), Ontario",3510010,135204
+3518,"Ajax (T), Ontario",3518005,129490
+3524,"Milton (T), Ontario",3524009,129334
+3558,"Thunder Bay (CY), Ontario",3558004,112740
+3530,"Waterloo (CY), Ontario",3530016,119869
+3536,"Chatham-Kent (MU), Ontario",3536020,105666
+3529,"Brantford (CY), Ontario",3529006,104902
+3518,"Clarington (MU), Ontario",3518017,100562
+3518,"Pickering (CY), Ontario",3518001,98817
+3526,"Niagara Falls (CY), Ontario",3526043,95570
+3519,"Newmarket (T), Ontario",3519048,89496
+3515,"Peterborough (CY), Ontario",3515014,86469
+3516,"Kawartha Lakes (CY), Ontario",3516010,80516
+3557,"Sault Ste. Marie (CY), Ontario",3557061,74989
+3538,"Sarnia (CY), Ontario",3538030,74779
+3521,"Caledon (T), Ontario",3521024,75969
+3528,"Norfolk County (CY), Ontario",3528052,69027
+3524,"Halton Hills (T), Ontario",3524015,64290
+3519,"Aurora (T), Ontario",3519046,62400
+3526,"Welland (CY), Ontario",3526032,55666
+3548,"North Bay (CY), Ontario",3548044,53816
+3512,"Belleville (CY), Ontario",3512005,54633
+3501,"Cornwall (CY), Ontario",3501012,48560
+3519,"Whitchurch-Stouffville (T), Ontario",3519044,49735
+3528,"Haldimand County (CY), Ontario",3528018,50119
+3519,"Georgina (T), Ontario",3519070,47585
+3512,"Quinte West (CY), Ontario",3512015,46824
+3556,"Timmins (CY), Ontario",3556027,42561
+3532,"Woodstock (CY), Ontario",3532042,45437
+3534,"St. Thomas (CY), Ontario",3534021,41795
+3537,"Lakeshore (T), Ontario",3537064,40132
+3543,"Innisfil (T), Ontario",3543017,40743
+3529,"Brant (CY), Ontario",3529005,38419
+3543,"Bradford West Gwillimbury (T), Ontario",3543014,42968
+3543,"New Tecumseth (T), Ontario",3543007,41439
+3531,"Stratford (CY), Ontario",3531011,33434
+3543,"Orillia (CY), Ontario",3543052,33460
+3526,"Fort Erie (T), Ontario",3526003,32834
+3537,"LaSalle (T), Ontario",3537034,32832
+3522,"Orangeville (T), Ontario",3522014,30295
+3523,"Centre Wellington (TP), Ontario",3523025,31008
+3537,"Leamington (MU), Ontario",3537003,29523
+3526,"Grimsby (T), Ontario",3526065,29331
+3530,"Woolwich (TP), Ontario",3530035,26751
+3519,"King (TP), Ontario",3519049,26593
+3513,"Prince Edward County (CY), Ontario",3513020,25406
+3502,"Clarence-Rockland (C), Ontario",3502036,26071
+3519,"East Gwillimbury (T), Ontario",3519054,32040
+3526,"Lincoln (T), Ontario",3526057,24431
+3537,"Tecumseh (T), Ontario",3537048,24064
+3537,"Amherstburg (T), Ontario",3537028,23239
+3543,"Collingwood (T), Ontario",3543031,23981
+3537,"Kingsville (T), Ontario",3537013,23025
+3518,"Scugog (TP), Ontario",3518020,21743
+3542,"Owen Sound (CY), Ontario",3542059,21730
+3507,"Brockville (CY), Ontario",3507015,22016
+3543,"Essa (TP), Ontario",3543021,23916
+3543,"Oro-Medonte (TP), Ontario",3543023,23304
+3518,"Uxbridge (TP), Ontario",3518029,22126
+3539,"Strathroy-Caradoc (MU), Ontario",3539015,23049
+3543,"Wasaga Beach (T), Ontario",3543064,22993
+3530,"Wilmot (TP), Ontario",3530020,21978
+3537,"Essex (T), Ontario",3537016,21441
+3544,"Huntsville (T), Ontario",3544042,21536
+3514,"Cobourg (T), Ontario",3514021,20170
+3543,"Springwater (TP), Ontario",3543009,21007
+3526,"Thorold (CY), Ontario",3526037,21663
+3510,"South Frontenac (TP), Ontario",3510020,20237
+3526,"Port Colborne (CY), Ontario",3526011,18975
+3526,"Niagara-on-the-Lake (T), Ontario",3526047,18865
+3547,"Petawawa (T), Ontario",3547076,18434
+3539,"Middlesex Centre (MU), Ontario",3539033,18662
+3526,"Pelham (T), Ontario",3526028,18007
+3511,"Loyalist (TP), Ontario",3511005,17755
+3515,"Selwyn (TP), Ontario",3515015,18124
+3543,"Midland (T), Ontario",3543074,17936
+3514,"Port Hope (MU), Ontario",3514020,17613
+3502,"Russell (TP), Ontario",3502048,18578
+3507,"North Grenville (MU), Ontario",3507065,17953
+3544,"Bracebridge (T), Ontario",3544018,17451
+3532,"Tillsonburg (T), Ontario",3532004,17230
+3511,"Greater Napanee (T), Ontario",3511015,16587
+3560,"Kenora (CY), Ontario",3560010,15483
+3526,"West Lincoln (TP), Ontario",3526021,15815
+3548,"West Nipissing / Nipissing Ouest (M), Ontario",3548055,15014
+3543,"Clearview (TP), Ontario",3543005,14787
+3538,"St. Clair (TP), Ontario",3538003,14755
+3547,"Pembroke (CY), Ontario",3547064,14206
+3541,"Saugeen Shores (T), Ontario",3541045,15125
+3543,"Severn (TP), Ontario",3543015,14971
+3539,"Thames Centre (MU), Ontario",3539027,14262
+3531,"North Perth (MU), Ontario",3531040,14799
+3509,"Mississippi Mills (T), Ontario",3509030,14476
+3501,"South Stormont (TP), Ontario",3501011,13839
+3501,"South Glengarry (TP), Ontario",3501005,13730
+3502,"The Nation / La Nation (M), Ontario",3502025,13687
+3514,"Trent Hills (MU), Ontario",3514045,13680
+3532,"Ingersoll (T), Ontario",3532018,13942
+3523,"Guelph/Eramosa (TP), Ontario",3523009,14323
+3534,"Central Elgin (MU), Ontario",3534020,13182
+3542,"West Grey (MU), Ontario",3542004,13348
+3544,"Gravenhurst (T), Ontario",3544002,13246
+3531,"Perth East (TP), Ontario",3531030,13031
+3523,"Wellington North (TP), Ontario",3523050,12374
+3514,"Brighton (MU), Ontario",3514004,12796
+3543,"Tiny (TP), Ontario",3543068,13094
+3518,"Brock (TP), Ontario",3518039,12661
+3523,"Erin (T), Ontario",3523017,11948
+3541,"Kincardine (MU), Ontario",3541024,12285
+3530,"Wellesley (TP), Ontario",3530027,11753
+3501,"North Dundas (TP), Ontario",3501030,11626
+3532,"Norwich (TP), Ontario",3532002,11666
+3542,"Meaford (MU), Ontario",3542047,11694
+3543,"Adjala-Tosorontio (TP), Ontario",3543003,11652
+3514,"Hamilton (TP), Ontario",3514019,11332
+3501,"South Dundas (MU), Ontario",3501020,11206
+3509,"Carleton Place (T), Ontario",3509028,11426
+3557,"Elliot Lake (CY), Ontario",3557041,11384
+3523,"Mapleton (TP), Ontario",3523033,11302
+3538,"Lambton Shores (MU), Ontario",3538040,11050
+3542,"Georgian Bluffs (TP), Ontario",3542053,11280
+3530,"North Dumfries (TP), Ontario",3530004,11328
+3507,"Rideau Lakes (TP), Ontario",3507040,10861
+3502,"Hawkesbury (T), Ontario",3502008,10525
+3501,"North Glengarry (TP), Ontario",3501050,10277
+3540,"South Huron (MU), Ontario",3540005,10797
+3543,"Tay (TP), Ontario",3543071,11070
+3554,"Temiskaming Shores (CY), Ontario",3554020,10335
+3507,"Elizabethtown-Kitley (TP), Ontario",3507014,9884
+3542,"Grey Highlands (MU), Ontario",3542015,10458
+3502,"Alfred and Plantagenet (TP), Ontario",3502023,10182
+3543,"Ramara (TP), Ontario",3543019,10380
+3547,"Laurentian Valley (TP), Ontario",3547075,9812
+3541,"Brockton (MU), Ontario",3541032,10073
+3507,"Leeds and the Thousand Islands (TP), Ontario",3507021,9679
+3534,"Malahide (TP), Ontario",3534010,10041
+3540,"Huron East (MU), Ontario",3540040,9547
+3543,"Penetanguishene (T), Ontario",3543072,9692
+3531,"West Perth (MU), Ontario",3531025,9352
+3515,"Cavan Monaghan (TP), Ontario",3515013,9562
+3547,"Arnprior (T), Ontario",3547002,9659
+3509,"Smiths Falls (T), Ontario",3509004,8898
+3502,"Champlain (TP), Ontario",3502010,8878
+3523,"Minto (T), Ontario",3523043,9422
+3522,"Mono (T), Ontario",3522012,10353
+3541,"South Bruce Peninsula (T), Ontario",3541055,8870
+3556,"Kapuskasing (T), Ontario",3556066,8330
+3522,"Shelburne (T), Ontario",3522021,9479
+3547,"Renfrew (T), Ontario",3547048,8345
+3532,"Zorra (TP), Ontario",3532027,8563
+3554,"Kirkland Lake (T), Ontario",3554068,8208
+3559,"Fort Frances (T), Ontario",3559012,7861
+3560,"Dryden (CY), Ontario",3560027,7801
+3509,"Drummond/North Elmsley (TP), Ontario",3509010,7963
+3538,"Plympton-Wyoming (T), Ontario",3538035,8393
+3511,"Stone Mills (TP), Ontario",3511030,7991
+3542,"Hanover (T), Ontario",3542029,8137
+3509,"Beckwith (TP), Ontario",3509024,8488
+3532,"South-West Oxford (TP), Ontario",3532012,7985
+3540,"Goderich (T), Ontario",3540028,8115
+3540,"Central Huron (MU), Ontario",3540025,8267
+3534,"Aylmer (T), Ontario",3534011,7971
+3532,"Blandford-Blenheim (TP), Ontario",3532045,7949
+3534,"Bayham (MU), Ontario",3534005,8040
+3542,"Southgate (TP), Ontario",3542005,8065
+3507,"Augusta (TP), Ontario",3507006,7429
+3523,"Puslinch (TP), Ontario",3523001,7573
+3531,"St. Marys (T), Ontario",3531016,7685
+3547,"McNab/Braeside (TP), Ontario",3547003,7388
+3532,"East Zorra-Tavistock (TP), Ontario",3532038,7707
+3540,"Bluewater (MU), Ontario",3540010,7510
+3507,"Edwardsburgh/Cardinal (TP), Ontario",3507004,7624
+3541,"Huron-Kinloss (TP), Ontario",3541015,7756
+3542,"The Blue Mountains (T), Ontario",3542045,8384
+3547,"Whitewater Region (TP), Ontario",3547056,7364
+3501,"North Stormont (TP), Ontario",3501042,7107
+3514,"Alnwick/Haldimand (TP), Ontario",3514024,7426
+3541,"Arran-Elderslie (MU), Ontario",3541043,7173
+3560,"Kenora, Unorganized (NO), Ontario",3560090,7243
+3515,"Douro-Dummer (TP), Ontario",3515023,7247
+3542,"Chatsworth (TP), Ontario",3542037,7207
+3515,"Otonabee-South Monaghan (TP), Ontario",3515005,7035
+3544,"Muskoka Lakes (TP), Ontario",3544053,7176
+3549,"Parry Sound (T), Ontario",3549032,6713
+3526,"Wainfleet (TP), Ontario",3526014,6732
+3514,"Cramahe (TP), Ontario",3514014,6537
+3539,"North Middlesex (MU), Ontario",3539041,6519
+3546,"Dysart et al (MU), Ontario",3546024,6722
+3546,"Minden Hills (TP), Ontario",3546015,6599
+3512,"Tweed (MU), Ontario",3512030,6215
+3558,"Oliver Paipoonge (MU), Ontario",3558011,6160
+3509,"Perth (T), Ontario",3509021,6240
+3558,"Thunder Bay, Unorganized (NO), Ontario",3558090,6118
+3538,"Petrolia (T), Ontario",3538019,6010
+3557,"Algoma, Unorganized, North Part (NO), Ontario",3557095,5803
+3539,"Southwest Middlesex (MU), Ontario",3539005,6161
+3541,"South Bruce (MU), Ontario",3541004,5930
+3509,"Tay Valley (TP), Ontario",3509015,5862
+3529,"Six Nations (Part) 40 (IRI), Ontario",3529020,5930
+3540,"Ashfield-Colborne-Wawanosh (TP), Ontario",3540063,5568
+3515,"Trent Lakes (MU), Ontario",3515044,5736
+3509,"Lanark Highlands (TP), Ontario",3509039,5526
+3556,"Cochrane (T), Ontario",3556042,5412
+3560,"Sioux Lookout (MU), Ontario",3560034,5529
+3507,"Gananoque (T), Ontario",3507024,5496
+3552,"Espanola (T), Ontario",3552026,5175
+3556,"Hearst (T), Ontario",3556076,5094
+3534,"West Elgin (MU), Ontario",3534042,5129
+3540,"North Huron (TP), Ontario",3540055,5028
+3512,"Stirling-Rawdon (TP), Ontario",3512020,5202
+3548,"East Ferris (MU), Ontario",3548034,5303
+3512,"Centre Hastings (MU), Ontario",3512026,4859
+3539,"Lucan Biddulph (TP), Ontario",3539060,5428
+3558,"Greenstone (MU), Ontario",3558075,4514
+3556,"Iroquois Falls (T), Ontario",3556031,4495
+3515,"Havelock-Belmont-Methuen (TP), Ontario",3515030,4849
+3534,"Southwold (TP), Ontario",3534024,4715
+3510,"Central Frontenac (TP), Ontario",3510035,4560
+3512,"Tyendinaga (TP), Ontario",3512001,4338
+3549,"Seguin (TP), Ontario",3549003,4592
+3507,"Prescott (T), Ontario",3507008,4398
+3560,"Red Lake (MU), Ontario",3560042,4196
+3547,"Deep River (T), Ontario",3547096,4108
+3547,"Madawaska Valley (TP), Ontario",3547030,4178
+3515,"Asphodel-Norwood (TP), Ontario",3515003,4780
+3522,"Amaranth (TP), Ontario",3522008,4505
+3512,"Hastings Highlands (MU), Ontario",3512076,4197
+3541,"Northern Bruce Peninsula (MU), Ontario",3541069,4080
+3512,"Marmora and Lake (MU), Ontario",3512046,4176
+3534,"Dutton/Dunwich (MU), Ontario",3534030,4049
+3549,"Callander (MU), Ontario",3549066,4164
+3540,"Howick (TP), Ontario",3540046,4129
+3512,"Bancroft (T), Ontario",3512061,3980
+3531,"Perth South (TP), Ontario",3531013,3845
+3509,"Montague (TP), Ontario",3509001,4004
+3538,"Warwick (TP), Ontario",3538043,3924
+3547,"Bonnechere Valley (TP), Ontario",3547035,3646
+3502,"Casselman (VL), Ontario",3502044,3691
+3540,"Morris-Turnberry (MU), Ontario",3540050,3694
+3522,"Mulmur (TP), Ontario",3522016,3835
+3549,"Powassan (MU), Ontario",3549060,3577
+3557,"Blind River (T), Ontario",3557038,3577
+3546,"Highlands East (MU), Ontario",3546005,3616
+3502,"East Hawkesbury (TP), Ontario",3502001,3338
+3558,"Marathon (T), Ontario",3558059,3334
+3554,"Timiskaming, Unorganized, West Part (NO), Ontario",3554094,3285
+3552,"Sables-Spanish Rivers (TP), Ontario",3552023,3257
+3544,"Lake of Bays (TP), Ontario",3544027,3581
+3507,"Merrickville-Wolford (VL), Ontario",3507052,3289
+3522,"Melancthon (TP), Ontario",3522019,3330
+3507,"Athens (TP), Ontario",3507042,2823
+3522,"Grand Valley (T), Ontario",3522010,3198
+3539,"Adelaide-Metcalfe (TP), Ontario",3539047,3070
+3547,"Laurentian Hills (T), Ontario",3547090,3038
+3547,"Admaston/Bromley (TP), Ontario",3547043,2879
+3547,"North Algona Wilberforce (TP), Ontario",3547070,3011
+3557,"Wawa (MU), Ontario",3557076,2975
+3547,"Horton (TP), Ontario",3547046,3152
+3556,"Cochrane, Unorganized, North Part (NO), Ontario",3556092,2908
+3558,"Shuniah (MU), Ontario",3558028,2971
+3538,"Enniskillen (TP), Ontario",3538016,2794
+3552,"Sudbury, Unorganized, North Part (NO), Ontario",3552093,2690
+3559,"Atikokan (T), Ontario",3559001,2841
+3551,"Northeastern Manitoulin and the Islands (MU), Ontario",3551017,2762
+3549,"McDougall (MU), Ontario",3549031,2822
+3552,"Markstay-Warren (MU), Ontario",3552013,2831
+3552,"French River / Rivière des Français (M), Ontario",3552001,2771
+3507,"Front of Yonge (TP), Ontario",3507017,2660
+3522,"East Garafraxa (TP), Ontario",3522001,2849
+3512,"Tyendinaga Mohawk Territory (IRI), Ontario",3512004,2609
+3544,"Georgian Bay (TP), Ontario",3544065,2818
+3551,"Wikwemikong Unceded (IRI), Ontario",3551043,2689
+3547,"Greater Madawaska (TP), Ontario",3547008,2715
+3515,"North Kawartha (TP), Ontario",3515037,2590
+3549,"Perry (TP), Ontario",3549014,2623
+3556,"Black River-Matheson (TP), Ontario",3556014,2551
+3547,"Killaloe, Hagarty and Richards (TP), Ontario",3547033,2589
+3538,"Brooke-Alvinston (MU), Ontario",3538015,2391
+3546,"Algonquin Highlands (TP), Ontario",3546018,2508
+3511,"Addington Highlands (TP), Ontario",3511035,2343
+3549,"Parry Sound, Unorganized, Centre Part (NO), Ontario",3549096,2325
+3512,"Madoc (TP), Ontario",3512036,2234
+3560,"Pikangikum 14 (IRI), Ontario",3560077,2164
+3551,"Central Manitoulin (MU), Ontario",3551006,2166
+3558,"Neebing (MU), Ontario",3558001,2127
+3560,"Sandy Lake 88 (IRI), Ontario",3560071,2201
+3538,"Point Edward (VL), Ontario",3538031,2038
+3548,"Bonfield (TP), Ontario",3548027,2043
+3548,"Mattawa (T), Ontario",3548021,1967
+3552,"Chapleau (TP), Ontario",3552092,2017
+3538,"Dawn-Euphemia (TP), Ontario",3538007,2122
+3558,"Manitouwadge (TP), Ontario",3558066,2007
+3510,"North Frontenac (TP), Ontario",3510045,2004
+3512,"Deseronto (T), Ontario",3512002,1979
+3548,"Nipissing, Unorganized, North Part (NO), Ontario",3548094,1739
+3510,"Frontenac Islands (TP), Ontario",3510005,1932
+3549,"Nipissing (TP), Ontario",3549071,1556
+3501,"Akwesasne (Part) 59 (IRI), Ontario",3501007,1769
+3557,"Huron Shores (MU), Ontario",3557035,1748
+3558,"Nipigon (TP), Ontario",3558044,1644
+3558,"Terrace Bay (TP), Ontario",3558054,1563
+3557,"Macdonald, Meredith and Aberdeen Additional (TP), Ontario",3557051,1773
+3548,"Nipissing 10 (IRI), Ontario",3548073,1727
+3538,"Walpole Island 46 (IRI), Ontario",3538004,1629
+3556,"Factory Island 1 (IRI), Ontario",3556094,1608
+3560,"Attawapiskat 91A (IRI), Ontario",3560051,1457
+3547,"Brudenell, Lyndoch and Raglan (TP), Ontario",3547020,1507
+3556,"Moosonee (TV), Ontario",3556106,1523
+3554,"Englehart (T), Ontario",3554052,1365
+3549,"Strong (TP), Ontario",3549046,1617
+3560,"Fort Albany (Part) 67 (IRI), Ontario",3560050,1480
+3549,"Armour (TP), Ontario",3549019,1454
+3512,"Faraday (TP), Ontario",3512058,1523
+3549,"Magnetawan (MU), Ontario",3549043,1446
+3559,"Rainy River, Unorganized (NO), Ontario",3559090,1382
+3559,"Emo (TP), Ontario",3559019,1468
+3556,"Smooth Rock Falls (T), Ontario",3556048,1308
+3548,"Chisholm (TP), Ontario",3548031,1292
+3552,"St.-Charles (MU), Ontario",3552004,1212
+3557,"Thessalon (T), Ontario",3557028,1257
+3556,"Moonbeam (TP), Ontario",3556056,1215
+3557,"St. Joseph (TP), Ontario",3557008,1355
+3560,"Ignace (TP), Ontario",3560001,1201
+3539,"Oneida 41 (IRI), Ontario",3539021,1319
+3554,"Armstrong (TP), Ontario",3554036,1193
+3557,"Sagamok (IRI), Ontario",3557071,1207
+3554,"Cobalt (T), Ontario",3554008,1169
+3557,"Garden River 14 (IRI), Ontario",3557074,1190
+3549,"Carling (TP), Ontario",3549036,1183
+3549,"South River (VL), Ontario",3549056,1238
+3549,"McKellar (TP), Ontario",3549028,1203
+3548,"South Algonquin (TP), Ontario",3548001,1122
+3558,"Schreiber (TP), Ontario",3558051,998
+3515,"Curve Lake First Nation 35 (IRI), Ontario",3515019,1091
+3541,"Saugeen 29 (IRI), Ontario",3541057,1122
+3557,"Laird (TP), Ontario",3557011,1003
+3560,"Kitchenuhmaykoosib Aaki 84 (Big Trout Lake) (IRI), Ontario",3560075,1120
+3548,"Papineau-Cameron (TP), Ontario",3548013,985
+3560,"Fort Hope 64 (IRI), Ontario",3560053,1088
+3557,"Prince (TP), Ontario",3557066,1043
+3551,"Assiginack (TP), Ontario",3551011,952
+3538,"Kettle Point 44 (IRI), Ontario",3538056,1056
+3560,"Ear Falls (TP), Ontario",3560032,961
+3557,"Hornepayne (TP), Ontario",3557096,984
+3558,"Fort William 52 (IRI), Ontario",3558003,981
+3560,"Lac Seul 28 (IRI), Ontario",3560056,1025
+3549,"Burk's Falls (VL), Ontario",3549022,1054
+3559,"Alberton (TP), Ontario",3559011,991
+3560,"Machin (MU), Ontario",3560021,976
+3549,"Sundridge (VL), Ontario",3549048,951
+3559,"La Vallee (TP), Ontario",3559016,932
+3549,"Whitestone (MU), Ontario",3549039,971
+3528,"Six Nations (Part) 40 (IRI), Ontario",3528037,981
+3558,"Red Rock (TP), Ontario",3558041,915
+3560,"Weagamow Lake 87 (IRI), Ontario",3560059,1025
+3551,"M'Chigeeng 22 (West Bay 22) (IRI), Ontario",3551045,923
+3543,"Mnjikaning First Nation 32 (IRI), Ontario",3543050,861
+3549,"Kearney (T), Ontario",3549018,970
+3549,"Machar (TP), Ontario",3549054,849
+3560,"Deer Lake (IRI), Ontario",3560070,954
+3512,"Carlow/Mayo (TP), Ontario",3512065,1021
+3551,"Gore Bay (T), Ontario",3551026,826
+3560,"Kasabonika Lake (IRI), Ontario",3560096,893
+3560,"Wabaseemoong (IRI), Ontario",3560061,869
+3549,"McMurrich/Monteith (TP), Ontario",3549012,840
+3559,"Couchiching 16A (IRI), Ontario",3559063,873
+3558,"Conmee (TP), Ontario",3558019,899
+3559,"Rainy River (T), Ontario",3559042,818
+3548,"Temagami (MU), Ontario",3548069,832
+3560,"Webequie (IRI), Ontario",3560079,839
+3556,"Val Rita-Harty (TP), Ontario",3556070,762
+3556,"Fort Albany (Part) 67 (IRI), Ontario",3556093,777
+3557,"Johnson (TP), Ontario",3557016,773
+3539,"Chippewas of the Thames First Nation 42 (IRI), Ontario",3539017,816
+3554,"Larder Lake (TP), Ontario",3554062,746
+3557,"Spanish (T), Ontario",3557039,733
+3554,"Charlton and Dack (MU), Ontario",3554044,673
+3512,"Wollaston (TP), Ontario",3512054,664
+3558,"O'Connor (TP), Ontario",3558016,606
+3557,"Plummer Additional (TP), Ontario",3557019,739
+3557,"White River (TP), Ontario",3557091,660
+3549,"Ryerson (TP), Ontario",3549024,726
+3559,"Chapple (TP), Ontario",3559024,670
+3556,"Mattice-Val Côté (TP), Ontario",3556077,630
+3560,"English River 21 (IRI), Ontario",3560058,635
+3538,"Oil Springs (VL), Ontario",3538018,635
+3538,"Sarnia 45 (IRI), Ontario",3538025,667
+3543,"Christian Island 30 (IRI), Ontario",3543069,624
+3557,"Rankin Location 15D (IRI), Ontario",3557075,639
+3557,"Dubreuilville (TP), Ontario",3557079,609
+3529,"New Credit (Part) 40A (IRI), Ontario",3529021,654
+3541,"Neyaashiinigmiing 27 (IRI), Ontario",3541060,655
+3554,"McGarry (TP), Ontario",3554058,609
+3551,"Billings (TP), Ontario",3551021,678
+3552,"Baldwin (TP), Ontario",3552028,615
+3560,"Wunnumin 1 (IRI), Ontario",3560085,666
+3554,"Coleman (TP), Ontario",3554001,626
+3556,"Constance Lake 92 (IRI), Ontario",3556095,646
+3507,"Westport (VL), Ontario",3507033,610
+3512,"Tudor and Cashel (TP), Ontario",3512048,547
+3560,"Whitefish Bay 32A (IRI), Ontario",3560004,605
+3557,"Bruce Mines (T), Ontario",3557021,641
+3560,"Cat Lake 63C (IRI), Ontario",3560054,705
+3560,"Sioux Narrows-Nestor Falls (TP), Ontario",3560008,590
+3554,"Harley (TP), Ontario",3554026,553
+3557,"Tarbutt and Tarbutt Additional (TP), Ontario",3557014,521
+3554,"Harris (TP), Ontario",3554014,532
+3556,"Fauquier-Strickland (TP), Ontario",3556052,540
+3549,"The Archipelago (TP), Ontario",3549005,523
+3560,"Sachigo Lake 1 (IRI), Ontario",3560076,588
+3560,"Kingfisher Lake 1 (IRI), Ontario",3560098,538
+3548,"Calvin (MU), Ontario",3548022,537
+3554,"Hudson (TP), Ontario",3554021,510
+3514,"Alderville First Nation (IRI), Ontario",3514027,485
+3557,"The North Shore (TP), Ontario",3557040,507
+3551,"Gordon/Barrie Island (MU), Ontario",3551027,488
+3559,"Morley (TP), Ontario",3559031,505
+3560,"Poplar Hill (IRI), Ontario",3560067,498
+3558,"Gillies (TP), Ontario",3558012,491
+3539,"Newbury (VL), Ontario",3539002,413
+3559,"Dawson (TP), Ontario",3559040,467
+3551,"Whitefish River (Part) 4 (IRI), Ontario",3551040,471
+3554,"Evanturel (TP), Ontario",3554049,514
+3560,"Wapekeka 2 (IRI), Ontario",3560088,471
+3558,"Pic River 50 (IRI), Ontario",3558062,460
+3547,"Pikwakanagan (Golden Lake 39) (IRI), Ontario",3547037,424
+3560,"Osnaburgh 63B (IRI), Ontario",3560055,508
+3551,"Tehkummah (TP), Ontario",3551001,447
+3560,"Kee-Way-Win (IRI), Ontario",3560104,446
+3560,"Kenora 38B (IRI), Ontario",3560066,444
+3554,"James (TP), Ontario",3554042,376
+3557,"Mississagi River 8 (IRI), Ontario",3557073,426
+3536,"Moravian 47 (IRI), Ontario",3536029,425
+3560,"Shoal Lake (Part) 39A (IRI), Ontario",3560068,412
+3558,"Long Lake 58 (IRI), Ontario",3558068,468
+3560,"Pickle Lake (TP), Ontario",3560049,419
+3552,"Whitefish Lake 6 (IRI), Ontario",3552051,421
+3560,"Summer Beaver (S-É), Ontario",3560086,401
+3552,"Killarney (MU), Ontario",3552036,364
+3551,"Sucker Creek 23 (IRI), Ontario",3551041,386
+3560,"Sabaskong Bay 35D (IRI), Ontario",3560063,358
+3558,"Aroland 83 (IRI), Ontario",3558076,383
+3554,"Casey (TP), Ontario",3554029,379
+3557,"Serpent River 7 (IRI), Ontario",3557072,386
+3515,"Hiawatha First Nation (IRI), Ontario",3515008,407
+3560,"Fort Severn 89 (IRI), Ontario",3560078,377
+3554,"Kerns (TP), Ontario",3554024,340
+3560,"Bearskin Lake (IRI), Ontario",3560095,374
+3549,"Dokis 9 (IRI), Ontario",3549077,364
+3512,"Limerick (TP), Ontario",3512051,386
+3551,"Burpee and Mills (TP), Ontario",3551028,376
+3552,"Nairn and Hyman (TP), Ontario",3552031,376
+3554,"Chamberlain (TP), Ontario",3554054,343
+3558,"Whitesand (IRI), Ontario",3558097,395
+3549,"Parry Island First Nation (IRI), Ontario",3549073,337
+3558,"Dorion (TP), Ontario",3558034,327
+3554,"Latchford (T), Ontario",3554006,319
+3557,"Jocelyn (TP), Ontario",3557001,330
+3557,"Hilton (TP), Ontario",3557004,316
+3549,"Joly (TP), Ontario",3549051,318
+3558,"Lake Helen 53A (IRI), Ontario",3558064,354
+3560,"North Spirit Lake (IRI), Ontario",3560080,307
+3559,"Manitou Rapids 11 (IRI), Ontario",3559026,265
+3560,"Muskrat Dam Lake (IRI), Ontario",3560097,296
+3559,"Seine River 23A (IRI), Ontario",3559066,262
+3519,"Chippewas of Georgina Island First Nation (IRI), Ontario",3519076,264
+3560,"Marten Falls 65 (IRI), Ontario",3560052,265
+3558,"Gull River 55 (IRI), Ontario",3558065,258
+3547,"Head, Clara and Maria (TP), Ontario",3547098,272
+3560,"Neskantaga (IRI), Ontario",3560093,250
+3559,"Big Grassy River 35G (IRI), Ontario",3559051,242
+3537,"Pelee (TP), Ontario",3537001,252
+3558,"Osnaburgh 63A (IRI), Ontario",3558085,243
+3559,"Lake of the Woods (TP), Ontario",3559047,232
+3554,"Matachewan (TP), Ontario",3554056,229
+3556,"Opasatika (TP), Ontario",3556073,228
+3560,"Eagle Lake 27 (IRI), Ontario",3560024,234
+3544,"Wahta Mohawk Territory (IRI), Ontario",3544071,233
+3559,"Rainy Lake 17A (IRI), Ontario",3559068,217
+3558,"Ginoogaming First Nation (IRI), Ontario",3558067,220
+3544,"Moose Point 79 (IRI), Ontario",3544073,227
+3554,"Hilliard (TP), Ontario",3554034,212
+3558,"Pic Mobert North (IRI), Ontario",3558060,208
+3549,"Shawanaga 17 (IRI), Ontario",3549072,205
+3560,"Peawanuck (S-É), Ontario",3560091,205
+3560,"The Dalles 38C (IRI), Ontario",3560089,204
+3552,"Mattagami 71 (IRI), Ontario",3552052,196
+3560,"Slate Falls (S-É), Ontario",3560046,197
+3549,"Parry Sound, Unorganized, North East Part (NO), Ontario",3549095,196
+3558,"Rocky Bay 1 (IRI), Ontario",3558069,193
+3559,"Neguaguon Lake 25D (IRI), Ontario",3559060,182
+3557,"Hilton Beach (VL), Ontario",3557006,175
+3560,"Wabigoon Lake 27 (IRI), Ontario",3560057,177
+3551,"Manitoulin, Unorganized, West Part (NO), Ontario",3551094,171
+3548,"Mattawan (TP), Ontario",3548019,167
+3559,"Rainy Lake 26A (IRI), Ontario",3559064,160
+3539,"Munsee-Delaware Nation 1 (IRI), Ontario",3539018,170
+3560,"Shoal Lake 34B2 (IRI), Ontario",3560064,160
+3548,"Bear Island 1 (IRI), Ontario",3548072,158
+3556,"Abitibi 70 (IRI), Ontario",3556033,149
+3560,"Rat Portage 38A (IRI), Ontario",3560069,146
+3554,"Gauthier (TP), Ontario",3554066,142
+3551,"Sheshegwaning 20 (IRI), Ontario",3551044,142
+3528,"New Credit (Part) 40A (IRI), Ontario",3528035,148
+3551,"Sheguiandah 24 (IRI), Ontario",3551042,139
+3518,"Mississaugas of Scugog Island (IRI), Ontario",3518022,142
+3558,"Pic Mobert South (IRI), Ontario",3558061,130
+3560,"Whitefish Bay 34A (IRI), Ontario",3560083,130
+3554,"Brethour (TP), Ontario",3554032,127
+3557,"Thessalon 12 (IRI), Ontario",3557026,128
+3549,"French River 13 (IRI), Ontario",3549076,124
+3553,"Wahnapitei 11 (IRI), Ontario",3553040,120
+3559,"Rainy Lake 18C (IRI), Ontario",3559061,118
+3554,"Thornloe (VL), Ontario",3554038,115
+3548,"Nipissing, Unorganized, South Part (NO), Ontario",3548091,106
+3549,"Magnetewan 1 (IRI), Ontario",3549078,106
+3559,"Saug-a-Gaw-Sing 1 (IRI), Ontario",3559053,100
+3560,"Whitefish Bay 33A (IRI), Ontario",3560005,101
+3556,"New Post 69A (IRI), Ontario",3556102,96
+3557,"Goulais Bay 15A (IRI), Ontario",3557077,99
+3560,"Northwest Angle 33B (IRI), Ontario",3560060,100
+3558,"Ojibway Nation of Saugeen (Savant Lake) (IRI), Ontario",3558080,93
+3558,"Pays Plat 51 (IRI), Ontario",3558063,92
+3552,"Duck Lake 76B (IRI), Ontario",3552054,87
+3557,"Gros Cap 49 (IRI), Ontario",3557078,80
+3560,"Shoal Lake (Part) 40 (IRI), Ontario",3560082,74
+3560,"Wabauskang 21 (IRI), Ontario",3560084,73
+3560,"Lake Of The Woods 37 (IRI), Ontario",3560065,65
+3554,"Matachewan 72 (IRI), Ontario",3554057,63
+3551,"Zhiibaahaasing 19A (Cockburn Island 19A) (IRI), Ontario",3551100,57
+3543,"Christian Island 30A (IRI), Ontario",3543070,46
+3552,"Chapleau 74A (IRI), Ontario",3552053,22
+3560,"Wawakapewin (Long Dog Lake) (IRI), Ontario",3560100,22
+3556,"Cochrane, Unorganized, South East Part (NO), Ontario",3556098,10
+3559,"Big Island Mainland 93 (IRI), Ontario",3559052,10
+3549,"Henvey Inlet 2 (IRI), Ontario",3549075,5
+3554,"Timiskaming, Unorganized, East Part (NO), Ontario",3554091,5
+3559,"Long Sault 12 (IRI), Ontario",3559030,5
+3559,"Rainy Lake 17B (IRI), Ontario",3559069,5
+3541,"Chief's Point No. 28 (IRI), Ontario",3541056,0
+3551,"Cockburn Island (TP), Ontario",3551034,0
+3552,"Chapleau 75 (IRI), Ontario",3552058,0
+3556,"Cochrane, Unorganized, South West Part (NO), Ontario",3556091,0
+3556,"Moose Factory 68 (IRI), Ontario",3556096,0
+3556,"Flying Post 73 (IRI), Ontario",3556100,0
+3557,"Algoma, Unorganized, South East Part (NO), Ontario",3557094,0
+3558,"Lake Nipigon (IRI), Ontario",3558077,0
+3558,"Seine River 22A2 (IRI), Ontario",3558095,0
+3558,"Lac des Mille Lacs 22A1 (IRI), Ontario",3558100,0
+3559,"Sabaskong Bay (Part) 35C (IRI), Ontario",3559048,0
+3559,"Agency 1 (IRI), Ontario",3559062,0
+3559,"Seine River 23B (IRI), Ontario",3559065,0
+3560,"Sabaskong Bay (Part) 35C (IRI), Ontario",3560007,0
+3560,"Lansdowne House (S-É), Ontario",3560081,0
+3560,"McDowell Lake (S-É), Ontario",3560102,0
