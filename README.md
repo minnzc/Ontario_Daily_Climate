@@ -17,14 +17,14 @@ daily_cd_climate.csv
 
 ## Data sources
 
-*Census divisions and subdivisions boundary data*: https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2016-eng.cfm
-*Daily climate conditions data*: https://climate-change.canada.ca/climate-data/#/daily-climate-data
-*Census subdivisions population estimates*: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014201 
+- *Census divisions and subdivisions boundary data*: https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2016-eng.cfm
+- *Daily climate conditions data*: https://climate-change.canada.ca/climate-data/#/daily-climate-data
+- *Census subdivisions population estimates*: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710014201 
 
 ## Analysis code
 
 Key elements of the analysis code are as follows:
-- *getCDAverages.py*: a Python script run once daily to update climate contained in the *DATA* folder and calculate averages
+- *getCDAverages.py*: a Python script run once daily to update climate contained in the DATA folder and calculate averages
 - *functions.py*: a Python script containing all defined functions called upon by getCDAverages.py
 
 ## Contact
