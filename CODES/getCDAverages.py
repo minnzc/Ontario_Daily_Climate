@@ -6,7 +6,7 @@ appends daily updates to the master climate data file, and generates weighted
 
 Author:       Minnie Cui
 Date written: 4 June 2020 
-Last updated: ---
+Last updated: 12 June 2020
 """
 ###############################################################################
 # DEFINE REQUIRED VARIABLES
@@ -148,7 +148,7 @@ print(str(all_null))
 
 ###############################################################################
 # FOR CENSUS DIVISIONS WITH NO WEATHER STATIONS OR FAILED WEATHER STATIONS, GET AVERAGE OF 3 CLOSEST DIVISIONS
-print("\nGetting average of 3 closest divisions for divisions with no average climate variable...")
+print("\nGetting average of " + str(num_district) + " closest divisions for divisions with no average climate variable...")
 
 # Create dictionaries of all division codes and dates that need filling in
 empty_list = []
