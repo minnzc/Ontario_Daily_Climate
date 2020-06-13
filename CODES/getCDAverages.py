@@ -197,6 +197,7 @@ print("\nSaving final divisions averages dataset...")
 
 # Save divisions average data to file
 if start == date(2018, 1, 1):
+    df_cd = df_cd.sort_values(by = ['cduid', 'date'], ignore_index = True)
     df_cd.to_csv("../" + outputfile, index = False)
 else: 
     df_cd_master = pd.read_csv("../" + outputfile, parse_dates = ["date"])
@@ -204,6 +205,7 @@ else:
         df_cd_master = df_cd_master[df_cd_master.date != single_date]
     df_cd_master = df_cd_master.append(df_cd, ignore_index = True)
     df_cd_master = df_cd_master.drop_duplicates(keep = "last")
+    df_cd_master = df_cd_master.sort_values(by = ['cduid', 'date'], ignore_index = True)
     df_cd_master.to_csv("../" + outputfile, index = False)
 
 print("\nFinal divisions averages dataset successfully saved.")
