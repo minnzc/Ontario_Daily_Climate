@@ -1,4 +1,4 @@
-## Ontario COVID-19 average climate conditions by Census districts data set
+## Ontario average climate conditions by Census divisions data set
 
 Climate conditions variables (average temperature, minimum temperature, maximum temperature, and average precipitation) are recorded daily with a 2-3 day lag by weather stations. I take the mean of all weather stations non-null climate variable values contained within a Census subdivision. Then, I take the weighted mean of all Census subdivisions with non-null climate variable values within a Census division. Weights are frequency weights using 2019 Census subdivision population estimates. If a Census division contains no weather stations (8 of 49) or if weather stations in a district were shut down or for some reason did not record a measurement on a day, I take the mean of the 3 closest Census divisions with weather stations.
 
