@@ -6,7 +6,7 @@ appends daily updates to the master climate data file, and generates weighted
 
 Author:       Minnie Cui
 Date written: 4 June 2020 
-Last updated: 12 June 2020
+Last updated: 15 May 2021
 """
 ###############################################################################
 # DEFINE REQUIRED VARIABLES
@@ -75,9 +75,9 @@ for v in ["CLIMATE_IDENTIFIER", "STATION_NAME", "PROVINCE_CODE", "LOCAL_DATE", "
     float_cols.remove(v)
 dtypes = {}
 for v in float_cols:
-    dtypes[v] = np.float
+    dtypes[v] = float
 for v in int_cols:
-    dtypes[v] = np.int
+    dtypes[v] = int
 for col, col_type in dtypes.items():
     master[col] = master[col].astype(col_type)
         
