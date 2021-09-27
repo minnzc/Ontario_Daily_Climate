@@ -24,9 +24,9 @@ daily_cd_climate.csv
 ## Analysis code
 
 Key elements of the analysis code are as follows:
-- *getCDAverages.py*: a Python script run once daily to update climate contained in the DATA folder and calculate averages
+- *getCDAverages.py*: a Python script run once weekly to update climate contained in the DATA folder and calculate averages
 - *functions.py*: a Python script containing all defined functions called upon by getCDAverages.py
 
 ## Contact
 Minnie Cui
-minniecui@bank-banque-canada.ca
+minniehcui@gmail.com
