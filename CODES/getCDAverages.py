@@ -6,7 +6,7 @@ appends daily updates to the master climate data file, and generates weighted
 
 Author:       Minnie Cui
 Date written: 4 June 2020 
-Last updated: 13 September 2021
+Last updated: 6 June 2022
 """
 ###############################################################################
 # DEFINE REQUIRED VARIABLES
@@ -187,7 +187,7 @@ for v in range(2, 6):
             sub_df_date = sub_df[sub_df.cduid.isin(closest[uid])]
             sub_data[v] = getAvg(sub_df_date, v)
             data.append(sub_data)
-    df_cd = sub_df_cd.append(pd.DataFrame(data, columns = col_names), ignore_index = True)
+    df_cd = pd.concat([sub_df_cd, pd.DataFrame(data, columns = col_names)], ignore_index = True)
 
 print("\nDivisions averages of divisions without weather stations dataset complete.")
 
@@ -203,7 +203,7 @@ else:
     df_cd_master = pd.read_csv("../" + outputfile, parse_dates = ["date"])
     for single_date in pd.date_range(start=start, end=today):
         df_cd_master = df_cd_master[df_cd_master.date != single_date]
-    df_cd_master = df_cd_master.append(df_cd, ignore_index = True)
+    df_cd_master = pd.concat([df_cd_master, df_cd], ignore_index = True)
     df_cd_master = df_cd_master.drop_duplicates(keep = "last")
     df_cd_master = df_cd_master.sort_values(by = ['cduid', 'date'], ignore_index = True)
     df_cd_master.to_csv("../" + outputfile, index = False)
